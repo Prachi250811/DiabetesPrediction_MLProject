@@ -1,1 +1,1 @@
-# DiabetesPrediction_MLProject
+# Diabetes Prediction
